@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MVCWebApp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/MVCWebApp_war</output-path>
+    <root id="archive" name="MVCWebApp_war.war">
+      <element id="artifact" artifact-name="MVCWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
