@@ -3,7 +3,7 @@ Simple microservices project built in study purpose with Spring Boot and Spring 
 
 ## Technologies: 
 
-Java 20, Spring Boot, Keycloak, Resilience4J, Netflix Eureka and Spring Cloud Gateway
+Java 20, Spring Boot, Keycloak, Resilience4J, Netflix Eureka and Spring Cloud Gateway, MongoDB, MySQL
 
 ## Launch:
 
