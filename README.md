@@ -1,16 +1,16 @@
 # MVCWebApp
-Simple MVC web application
+Simple microservices project built in study purpose with Spring Boot and Spring Cloud technologies
 
 ## Technologies: 
 
-Java 17, Spring MVC
+Java 20, Spring Boot, Keycloak, Resilience4J, Netflix Eureka and Spring Cloud Gateway
 
 ## Launch:
 
-Interaction with the service is implemented via web browser (http://localhost:8080/)
+Run mvn ```clean verify -DskipTests``` by going inside each folder to build the applications.
+After that run mvn spring-boot:run by going inside each folder to start the applications.
 
 ## Project status
 
-Finished
-
+Actively developing
 
